@@ -1,0 +1,1 @@
+# crop_image_with_use_of_cv2
